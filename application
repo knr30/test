@@ -1,0 +1,5 @@
+#my new application
+FROM Ubuntu
+WORKDIR /app
+COPY /. /app
+
